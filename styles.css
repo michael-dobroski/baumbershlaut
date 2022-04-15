@@ -2,16 +2,14 @@ body {
     background-color: rgb(187, 230, 212);
     font-family: Helvetica, sans-serif, Arial;
     text-align: center;
+    color: black;
+}
+.instructions {
+    text-align: left;
 }
 #title {
     color: deeppink;
 }
-h1 {
-    color: black;
-}
 h2 {
     color: rgb(207, 61, 221);
-}
-p {
-    color: red;
 }
